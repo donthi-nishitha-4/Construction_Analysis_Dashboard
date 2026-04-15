@@ -1,0 +1,5 @@
+streamlit
+pandas
+matplotlib
+
+//sample dataset provided by hackathon is given in the repository to upload to the designed streamlit website
