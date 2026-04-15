@@ -35,7 +35,8 @@ Upload a CSV file with columns like:
 •	result, remarks
 
 
-Build Journal Link : 
+Build Journal Link : https://github.com/donthi-nishitha-4/Construction_Analysis_Dashboard/blob/main/BUILD_JOURNAL.md
+
 ## 🏗 Approach
 
 ### 1. Data Handling
